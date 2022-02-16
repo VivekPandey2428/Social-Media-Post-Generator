@@ -1,0 +1,40 @@
+.Post-data{
+    height:auto;
+    width:600px;
+    padding:20px 0;
+    margin:10px 30%;
+}
+.text-section{
+    width: 100%;
+    height: auto;
+    box-shadow: 0 0 10px grey;
+    margin-top:20px;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+.upper-section{
+    display: flex;
+}
+.margin0 h3{
+    margin:0;
+}
+.margin0 p{
+    margin:0;
+}
+.round-profile{
+    width:50px;
+    height:50px;
+    border-radius: 50%;
+    margin-left:10px;
+}
+.caption{
+    margin-left:20px;
+}
+.img-capture{
+    width:100%;
+    height:auto;
+}
+.img-capture img{
+    width: 100%;
+    height: auto;
+}
