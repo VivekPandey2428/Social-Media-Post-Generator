@@ -1,5 +1,5 @@
 
-<img src="https://im7.ezgif.com/tmp/ezgif-7-790bfc8fba.gif" width="500px"/>
+<img src="https://im7.ezgif.com/tmp/ezgif-7-790bfc8fba.gif" width="1000px"/>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
