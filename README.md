@@ -1,4 +1,4 @@
-
+## Enter Text and GIF and add post to add your post to content.
 <img src="https://im7.ezgif.com/tmp/ezgif-7-790bfc8fba.gif" width="1000px"/>
 # Getting Started with Create React App
 
